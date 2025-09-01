@@ -1,0 +1,1 @@
+this is manish.txt http://127.0.0.1:8000/static/manish.txt  you can access this file using this url
